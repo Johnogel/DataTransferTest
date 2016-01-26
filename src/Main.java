@@ -38,6 +38,14 @@ public class Main {
         System.out.println(obj.toString());
         System.out.println("");
         System.out.println(obj);
+        System.out.println("");
+        System.out.println(System.getProperty("os.name"));
+        System.out.println("");
+        System.out.println(System.getProperty("user.home"));
+        System.out.println("");
+        System.out.println(System.getProperty("java.version"));
+        System.out.println("");
+        System.out.println(System.getProperty("user.name"));
     }
     
 }
